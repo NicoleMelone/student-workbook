@@ -1,6 +1,8 @@
 # Day 2
 Read Building Blocks Of Web Development > CSS and answer the following questions
 
+daily challenge: https://github.com/NicoleMelone/cool-site
+
 ## What is a Pseudo-Class and what are some of the most common ones you think you will use?
 It's a specific keyword added to a selector to specify a state of a selected element. Hover is one that will be used a lot because it lets a buttom to change when the curser to on it. 
 
