@@ -1,7 +1,7 @@
 # Day 3
 Read Building Blocks Of Web Development > Cheating At Design and answer the following questions
 
-Daily challenge: 
+Daily challenge: https://github.com/NicoleMelone/bootstrap4
 ## What is your favorite tip that you think is the most beneficial to improving your design?
 Adjusting the color and style of text rather than adjusting the size of text.
 
