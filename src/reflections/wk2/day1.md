@@ -1,6 +1,7 @@
 # Day One - Intro the JS
 
-### Daily challenge:
+### Daily challenge:  
+https://github.com/NicoleMelone/js-tests-basics
 
 Read Intro to JS > Var, let and const and answer the following questions
 
