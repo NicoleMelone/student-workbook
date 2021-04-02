@@ -26,7 +26,7 @@ let property = 'name'
 **4.** What does the S stand for in the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-
+Single responsibility
 ```
 **5.** What the difference between a `class` and an instance of a `class`?
 <!-- enter you answer in the space below -->
@@ -47,7 +47,7 @@ let property = 'name'
 **8.** What is the job of the `Controller` in the `MVC` Pattern?
 <!-- enter you answer in the space below -->
 ```
-
+The controller takes info from the user on the screen and reports back to the service what is needed. Then once it recieves the info it brings it back to the user o the screen.
 ```
 
 **9.** What is the job of the `Service` in `MVC`?
