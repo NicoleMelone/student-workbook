@@ -1,6 +1,6 @@
 # Day 3
 
-Daily Challenge:
+Daily Challenge: https://github.com/NicoleMelone/pokemon
 
 Read Asynchronous Code > Async and Await and answer the following questions
 
